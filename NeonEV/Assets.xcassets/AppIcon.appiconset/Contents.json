@@ -1,0 +1,116 @@
+{
+  "images" : [
+       {
+           "filename" : "Neon-0.jpeg",
+           "idiom" : "iphone",
+           "scale" : "2x",
+           "size" : "20x20"
+       },
+       {
+           "filename" : "Neon-1.jpeg",
+           "idiom" : "iphone",
+           "scale" : "3x",
+           "size" : "20x20"
+       },
+       {
+           "filename" : "Neon-2.jpeg",
+           "idiom" : "iphone",
+           "scale" : "2x",
+           "size" : "29x29"
+       },
+       {
+           "filename" : "Neon-3.jpeg",
+           "idiom" : "iphone",
+           "scale" : "3x",
+           "size" : "29x29"
+       },
+       {
+           "filename" : "Neon-4.jpeg",
+           "idiom" : "iphone",
+           "scale" : "2x",
+           "size" : "40x40"
+       },
+       {
+           "filename" : "Neon-5.jpeg",
+           "idiom" : "iphone",
+           "scale" : "3x",
+           "size" : "40x40"
+       },
+       {
+           "filename" : "Neon-6.jpeg",
+           "idiom" : "iphone",
+           "scale" : "2x",
+           "size" : "60x60"
+       },
+       {
+           "filename" : "Neon-7.jpeg",
+           "idiom" : "iphone",
+           "scale" : "3x",
+           "size" : "60x60"
+       },
+       {
+           "filename" : "Neon-8.jpeg",
+           "idiom" : "ipad",
+           "scale" : "1x",
+           "size" : "20x20"
+       },
+       {
+           "filename" : "Neon-9.jpeg",
+           "idiom" : "ipad",
+           "scale" : "2x",
+           "size" : "20x20"
+       },
+       {
+           "filename" : "Neon-10.jpeg",
+           "idiom" : "ipad",
+           "scale" : "1x",
+           "size" : "29x29"
+       },
+       {
+           "filename" : "Neon-11.jpeg",
+           "idiom" : "ipad",
+           "scale" : "2x",
+           "size" : "29x29"
+       },
+       {
+           "filename" : "Neon-12.jpeg",
+           "idiom" : "ipad",
+           "scale" : "1x",
+           "size" : "40x40"
+       },
+       {
+           "filename" : "Neon-13.jpeg",
+           "idiom" : "ipad",
+           "scale" : "2x",
+           "size" : "40x40"
+       },
+       {
+           "filename" : "Neon-14.jpeg",
+           "idiom" : "ipad",
+           "scale" : "1x",
+           "size" : "76x76"
+       },
+       {
+           "filename" : "Neon-15.jpeg",
+           "idiom" : "ipad",
+           "scale" : "2x",
+           "size" : "76x76"
+       },
+       {
+           "filename" : "Neon-16.jpeg",
+           "idiom" : "ipad",
+           "scale" : "2x",
+           "size" : "83.5x83.5"
+       },
+       {
+           "filename" : "Neon.jpeg",
+           "idiom" : "ios-marketing",
+           "scale" : "1x",
+           "size" : "1024x1024"
+       }
+  ],
+  "info" : {
+      "author" : "xcode",
+      "version" : 1
+  }
+}
